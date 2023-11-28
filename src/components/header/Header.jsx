@@ -30,7 +30,9 @@ const Header = () => {
               </li>
 
               <li>
-                <a href="#!">SIGN UP</a>
+                <a href="#!" className="header__nav-btn">
+                  SIGN UP
+                </a>
               </li>
             </ul>
           </nav>
